@@ -9,6 +9,7 @@ import os
 import tempfile
 import subprocess
 import asyncio
+import threading
 
 import numpy as np
 import sounddevice as sd
@@ -40,7 +41,7 @@ COMMANDS = [
         "message": "유튜브를 엽니다."
     },
     {
-        "keywords": ["챗지피티", "챗 지피티", "채치피티", "채 치피티", "chatgpt", "chat gpt", "챗gpt", "챗 gpt"],
+        "keywords": ["챗지피티", "챗 지피티", "채치피티", "채 치피티", "챕치피티", "새치피티", "지피티", "chatgpt", "chat gpt", "챗gpt", "챗 gpt", "gpt", "치워라줘", "채치프트", "배치피치", "hpt", "집비티"],
         "action": lambda: subprocess.Popen(["google-chrome", "--new-tab", "https://chat.openai.com"]),
         "message": "챗GPT를 엽니다."
     },
@@ -219,7 +220,7 @@ def main():
     print("\nWhisper 모델 로딩 중...", flush=True)
     model = whisper.load_model("small")
 
-    preload_voices(["네! 말씀하세요.", "명령어를 듣지 못했습니다."])
+    preload_voices(["말씀하세요.", "명령어를 듣지 못했습니다."])
     threshold = calibrate_threshold()
     print("\n대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.\n", flush=True)
 
@@ -236,8 +237,8 @@ def main():
                 continue  # 웨이크워드 아니면 그냥 무시
 
             # ── 2단계: 웨이크워드 감지됨 ──
-            print("네! 말씀하세요.", flush=True)
-            speak("네! 말씀하세요.")
+            print("말씀하세요.", flush=True)
+            speak("말씀하세요.")
 
             # ── 3단계: 명령어 수신 ──
             audio = record_until_silence(threshold, silence_duration=CMD_SILENCE)
