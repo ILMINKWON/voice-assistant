@@ -46,7 +46,7 @@ COMMANDS = [
         "message": "챗GPT를 엽니다."
     },
     {
-        "keywords": ["절전", "절전모드", "잠자기", "결정 모드", "결전 모드"],
+        "keywords": ["절전", "절전모드", "잠자기", "결정 모드", "결전 모드", "발전", "발전 모드", "발전모드"],
         "action": lambda: subprocess.run(["systemctl", "suspend"]),
         "message": "절전 모드로 전환합니다."
     },
@@ -56,7 +56,7 @@ COMMANDS = [
         "message": "재시작합니다."
     },
     {
-        "keywords": ["종료", "끄기", "컴퓨터 꺼", "컴 꺼"],
+        "keywords": ["종료", "끄기", "컴퓨터 꺼", "컴 꺼", "변환 꺼져", "전원 꺼줘", "전원 꺼"],
         "action": lambda: subprocess.run(["shutdown", "now"]),
         "message": "시스템을 종료합니다."
     },

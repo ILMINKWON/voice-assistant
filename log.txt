@@ -1,0 +1,837 @@
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0030  →  임계값: 0.0120
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '안녕'
+[?] 알 수 없는 명령: '안녕'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '유튜브 열어줘'
+[실행] 유튜브를 엽니다.
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+[5407:5407:0924/174511.344635:ERROR:content/browser/browser_main_loop.cc:286] GLib-GObject: g_object_set_is_valid_property: object class 'GtkSettings' has no property named 'gtk-modules'
+[5461:5461:0924/174511.870964:ERROR:ui/ozone/platform/wayland/gpu/wayland_surface_factory.cc:249] '--ozone-platform=wayland' is not compatible with Vulkan. Consider switching to '--ozone-platform=x11' or disabling Vulkan
+Created TensorFlow Lite XNNPACK delegate for CPU.
+Warning: maxDynamicUniformBuffersPerPipelineLayout artificially reduced from 500000 to 16 to fit dynamic offset allocation limit.
+Warning: maxDynamicStorageBuffersPerPipelineLayout artificially reduced from 500000 to 16 to fit dynamic offset allocation limit.
+[5407:5443:0924/174519.003765:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+말씀하세요.
+분석 중...
+[5407:5443:0924/180359.311526:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2
+인식됨: '후쿠션버두의 조'
+[?] 알 수 없는 명령: '후쿠션버두의 조'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+Gdk-Message: 19:39:22.393: Error reading events from display: Broken pipe
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0102  →  임계값: 0.0408
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: 'あ・・・'
+[?] 알 수 없는 명령: 'あ・・・'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0008  →  임계값: 0.0100
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '채치 pt 틀어줘'
+[?] 알 수 없는 명령: '채치 pt 틀어줘'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '발전 모드 틀어줘'
+[?] 알 수 없는 명령: '발전 모드 틀어줘'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '발전 모드로 해줘'
+[?] 알 수 없는 명령: '발전 모드로 해줘'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '절전 모두 해줘'
+[실행] 절전 모드로 전환합니다.
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '유튜브 틀어줘'
+[실행] 유튜브를 엽니다.
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+기존 브라우저 세션에서 여는 중입니다.
+말씀하세요.
+분석 중...
+인식됨: '컴퓨터 꺼줘'
+[실행] 시스템을 종료합니다.
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0024  →  임계값: 0.0100
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '유튜브 틀어줘'
+[실행] 유튜브를 엽니다.
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+[5579:5579:0925/194745.296929:ERROR:content/browser/browser_main_loop.cc:286] GLib-GObject: g_object_set_is_valid_property: object class 'GtkSettings' has no property named 'gtk-modules'
+[5631:5631:0925/194745.818626:ERROR:ui/ozone/platform/wayland/gpu/wayland_surface_factory.cc:249] '--ozone-platform=wayland' is not compatible with Vulkan. Consider switching to '--ozone-platform=x11' or disabling Vulkan
+Created TensorFlow Lite XNNPACK delegate for CPU.
+Warning: maxDynamicUniformBuffersPerPipelineLayout artificially reduced from 500000 to 16 to fit dynamic offset allocation limit.
+Warning: maxDynamicStorageBuffersPerPipelineLayout artificially reduced from 500000 to 16 to fit dynamic offset allocation limit.
+[5579:5613:0925/194754.068917:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[5579:5613:0925/194815.237730:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[5579:5613:0925/194857.835434:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[6647:26:0925/194932.781212:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=1, SSRC=286025576, previous failure count: 0
+[6647:26:0925/194935.647996:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=1, SSRC=300652232, previous failure count: 0
+[6647:26:0925/194940.436842:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=1, SSRC=301796264, previous failure count: 0
+[6647:26:0925/194959.155962:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=2174, SSRC=301796264, previous failure count: 100
+[6647:26:0925/195022.947209:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=4909, SSRC=301796264, previous failure count: 200
+[5579:5613:0925/195043.401471:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[6647:26:0925/195048.300206:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=7788, SSRC=301796264, previous failure count: 300
+[6647:26:0925/195110.588336:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=10372, SSRC=301796264, previous failure count: 400
+[6647:26:0925/195131.600847:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=12740, SSRC=301796264, previous failure count: 500
+[6647:26:0925/195156.276269:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=15540, SSRC=301796264, previous failure count: 600
+[6647:26:0925/195215.208424:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=17724, SSRC=301796264, previous failure count: 700
+[6647:26:0925/195227.812859:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=1212, seqnum=19133, SSRC=301796264, previous failure count: 800
+[6647:26:0925/195250.577058:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=21769, SSRC=301796264, previous failure count: 900
+[5579:5579:0925/195251.466728:ERROR:ui/compositor/compositor_animation_observer.cc:65] CompositorAnimationObserver is active for too long (160.374s) location=Button@ui/views/controls/button/button.cc:669
+[6647:26:0925/195315.271125:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=24515, SSRC=301796264, previous failure count: 1000
+[6647:26:0925/195338.161308:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=27120, SSRC=301796264, previous failure count: 1100
+[5579:5613:0925/195355.728532:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[6647:26:0925/195404.176849:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=30039, SSRC=301796264, previous failure count: 1200
+[6647:26:0925/195427.645605:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=32701, SSRC=301796264, previous failure count: 1300
+[6647:26:0925/195451.642739:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=35464, SSRC=301796264, previous failure count: 1400
+[6647:26:0925/195515.440687:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=211, seqnum=16783, SSRC=318573480, previous failure count: 1500
+[6647:26:0925/195539.934541:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=40898, SSRC=301796264, previous failure count: 1600
+[6647:26:0925/195603.018594:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=43563, SSRC=301796264, previous failure count: 1700
+[6647:26:0925/195627.021682:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=46264, SSRC=301796264, previous failure count: 1800
+[6647:26:0925/195653.023883:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=49225, SSRC=301796264, previous failure count: 1900
+[6647:26:0925/195716.160704:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=51846, SSRC=301796264, previous failure count: 2000
+[6647:26:0925/195738.537332:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=54376, SSRC=301796264, previous failure count: 2100
+[6647:26:0925/195802.531832:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=57104, SSRC=301796264, previous failure count: 2200
+[6647:26:0925/195828.556977:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=60049, SSRC=301796264, previous failure count: 2300
+[6647:26:0925/195852.569003:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=62752, SSRC=301796264, previous failure count: 2400
+[6647:26:0925/195916.550970:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=65474, SSRC=301796264, previous failure count: 2500
+[6647:26:0925/195939.476434:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=2560, SSRC=301796264, previous failure count: 2600
+[6647:26:0925/200005.510339:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=5483, SSRC=301796264, previous failure count: 2700
+[5579:5613:0925/200019.708439:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+[6647:26:0925/200029.423233:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=8239, SSRC=301796264, previous failure count: 2800
+[6647:26:0925/200053.421826:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=10965, SSRC=301796264, previous failure count: 2900
+[6647:26:0925/200119.444917:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=13892, SSRC=301796264, previous failure count: 3000
+[6647:26:0925/200143.447167:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=16626, SSRC=301796264, previous failure count: 3100
+[6647:26:0925/200206.081066:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=19278, SSRC=301796264, previous failure count: 3200
+[6647:26:0925/200232.098849:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=22158, SSRC=301796264, previous failure count: 3300
+[6647:26:0925/200255.149218:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=24780, SSRC=301796264, previous failure count: 3400
+[6647:26:0925/200317.932692:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=27365, SSRC=301796264, previous failure count: 3500
+[6647:26:0925/200341.602627:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=29997, SSRC=301796264, previous failure count: 3600
+[6647:26:0925/200405.592591:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=32726, SSRC=301796264, previous failure count: 3700
+[6647:26:0925/200431.353786:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=35688, SSRC=301796264, previous failure count: 3800
+[6647:26:0925/200453.446891:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=38189, SSRC=301796264, previous failure count: 3900
+[6647:26:0925/200515.817718:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=40738, SSRC=301796264, previous failure count: 4000
+[6647:26:0925/200541.830736:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=43678, SSRC=301796264, previous failure count: 4100
+[6647:26:0925/200603.324332:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=46175, SSRC=301796264, previous failure count: 4200
+[6647:26:0925/200626.469509:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=48829, SSRC=301796264, previous failure count: 4300
+[6647:26:0925/200652.515181:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=51757, SSRC=301796264, previous failure count: 4400
+[6647:26:0925/200659.917368:ERROR:third_party/webrtc/pc/srtp_transport.cc:131] Failed to unprotect RTCP packet: size=72, type=200, previous failure count: 0
+[6647:26:0925/200715.463588:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=54348, SSRC=301796264, previous failure count: 4500
+[6647:26:0925/200738.410933:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=56980, SSRC=301796264, previous failure count: 4600
+[6647:26:0925/200804.400058:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=59866, SSRC=301796264, previous failure count: 4700
+[6647:26:0925/200827.825573:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=62508, SSRC=301796264, previous failure count: 4800
+[6647:26:0925/200851.818554:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=65190, SSRC=301796264, previous failure count: 4900
+[6647:26:0925/200915.533340:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=2375, SSRC=301796264, previous failure count: 5000
+[6647:26:0925/200938.021570:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=4927, SSRC=301796264, previous failure count: 5100
+[6647:26:0925/201000.855607:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=7483, SSRC=301796264, previous failure count: 5200
+[6647:26:0925/201026.824692:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=10421, SSRC=301796264, previous failure count: 5300
+[6647:26:0925/201049.394403:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=12956, SSRC=301796264, previous failure count: 5400
+[6647:26:0925/201113.400781:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=15695, SSRC=301796264, previous failure count: 5500
+[6647:26:0925/201139.043214:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=18622, SSRC=301796264, previous failure count: 5600
+[6647:26:0925/201202.274411:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=21248, SSRC=301796264, previous failure count: 5700
+[6647:26:0925/201226.094799:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=23970, SSRC=301796264, previous failure count: 5800
+[6647:26:0925/201251.103306:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=26817, SSRC=301796264, previous failure count: 5900
+[6647:26:0925/201313.201680:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=29315, SSRC=301796264, previous failure count: 6000
+[6647:26:0925/201336.900941:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=32064, SSRC=301796264, previous failure count: 6100
+[6647:26:0925/201359.508407:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=34606, SSRC=301796264, previous failure count: 6200
+[6647:26:0925/201422.677925:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=37239, SSRC=301796264, previous failure count: 6300
+[6647:26:0925/201445.678775:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=39837, SSRC=301796264, previous failure count: 6400
+[6647:26:0925/201509.619429:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=42556, SSRC=301796264, previous failure count: 6500
+[6647:26:0925/201531.082077:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=44983, SSRC=301796264, previous failure count: 6600
+[6647:26:0925/201554.851629:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=47655, SSRC=301796264, previous failure count: 6700
+[6647:26:0925/201617.620527:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=50295, SSRC=301796264, previous failure count: 6800
+[6647:26:0925/201639.407176:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=52806, SSRC=301796264, previous failure count: 6900
+[6647:26:0925/201656.544522:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=54764, SSRC=301796264, previous failure count: 7000
+[6647:26:0925/201714.033063:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=56750, SSRC=301796264, previous failure count: 7100
+[6647:26:0925/201730.724069:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=58711, SSRC=301796264, previous failure count: 7200
+[6647:26:0925/201754.756785:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=61440, SSRC=301796264, previous failure count: 7300
+[6647:26:0925/201818.032512:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=64095, SSRC=301796264, previous failure count: 7400
+[6647:26:0925/201835.521508:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=602, SSRC=301796264, previous failure count: 7500
+[6647:26:0925/201855.102782:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=2851, SSRC=301796264, previous failure count: 7600
+[6647:26:0925/201912.119052:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=4823, SSRC=301796264, previous failure count: 7700
+[6647:26:0925/201920.419877:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=5814, SSRC=301796264, previous failure count: 7800
+[6647:26:0925/201936.119338:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=7638, SSRC=301796264, previous failure count: 7900
+[6647:26:0925/201954.437240:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=9736, SSRC=301796264, previous failure count: 8000
+[6647:26:0925/202010.150639:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=11510, SSRC=301796264, previous failure count: 8100
+[6647:26:0925/202028.100075:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=13563, SSRC=301796264, previous failure count: 8200
+[6647:26:0925/202043.515056:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=15394, SSRC=301796264, previous failure count: 8300
+[6647:26:0925/202054.223022:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=16609, SSRC=301796264, previous failure count: 8400
+[6647:26:0925/202112.518855:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=18741, SSRC=301796264, previous failure count: 8500
+[6647:26:0925/202131.621059:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=20948, SSRC=301796264, previous failure count: 8600
+[6647:26:0925/202149.344308:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=22974, SSRC=301796264, previous failure count: 8700
+[6647:26:0925/202207.830682:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=25065, SSRC=301796264, previous failure count: 8800
+[6647:26:0925/202223.016553:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=26816, SSRC=301796264, previous failure count: 8900
+[6647:26:0925/202243.143327:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=29160, SSRC=301796264, previous failure count: 9000
+[6647:26:0925/202258.134640:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=30833, SSRC=301796264, previous failure count: 9100
+[6647:26:0925/202312.648296:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=32546, SSRC=301796264, previous failure count: 9200
+[6647:26:0925/202334.345262:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=35011, SSRC=301796264, previous failure count: 9300
+[6647:26:0925/202358.353187:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=37787, SSRC=301796264, previous failure count: 9400
+[6647:26:0925/202422.348075:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=40471, SSRC=301796264, previous failure count: 9500
+[6647:26:0925/202442.008190:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=42755, SSRC=301796264, previous failure count: 9600
+[6647:26:0925/202451.115013:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=43854, SSRC=301796264, previous failure count: 9700
+[6647:26:0925/202508.599181:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=45870, SSRC=301796264, previous failure count: 9800
+[6647:26:0925/202532.981764:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=48668, SSRC=301796264, previous failure count: 9900
+[6647:26:0925/202547.952620:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=50390, SSRC=301796264, previous failure count: 10000
+[6647:26:0925/202603.488689:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=52174, SSRC=301796264, previous failure count: 10100
+[6647:26:0925/202618.670362:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=54009, SSRC=301796264, previous failure count: 10200
+[6647:26:0925/202638.815099:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=56289, SSRC=301796264, previous failure count: 10300
+[6647:26:0925/202656.958634:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=58360, SSRC=301796264, previous failure count: 10400
+[6647:26:0925/202715.250808:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=60457, SSRC=301796264, previous failure count: 10500
+[6647:26:0925/202734.001106:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=62624, SSRC=301796264, previous failure count: 10600
+[6647:26:0925/202750.458105:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=64511, SSRC=301796264, previous failure count: 10700
+[6647:26:0925/202806.208879:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=776, SSRC=301796264, previous failure count: 10800
+[6647:26:0925/202821.981274:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=2625, SSRC=301796264, previous failure count: 10900
+[6647:26:0925/202842.378381:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=4947, SSRC=301796264, previous failure count: 11000
+[6647:26:0925/202902.742014:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=7277, SSRC=301796264, previous failure count: 11100
+[6647:26:0925/202924.037608:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=9748, SSRC=301796264, previous failure count: 11200
+[6647:26:0925/202944.911452:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=12131, SSRC=301796264, previous failure count: 11300
+[6647:26:0925/203006.384229:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=14572, SSRC=301796264, previous failure count: 11400
+[6647:26:0925/203031.912999:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=17486, SSRC=301796264, previous failure count: 11500
+[6647:26:0925/203055.894713:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=20184, SSRC=301796264, previous failure count: 11600
+[6647:26:0925/203119.887674:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=22901, SSRC=301796264, previous failure count: 11700
+[6647:26:0925/203144.654921:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=25696, SSRC=301796264, previous failure count: 11800
+[6647:26:0925/203208.646278:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=28431, SSRC=301796264, previous failure count: 11900
+[6647:26:0925/203232.618750:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=31153, SSRC=301796264, previous failure count: 12000
+[6647:26:0925/203258.624338:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=34103, SSRC=301796264, previous failure count: 12100
+[6647:26:0925/203322.158669:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=36775, SSRC=301796264, previous failure count: 12200
+[6647:26:0925/203341.597581:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=38972, SSRC=301796264, previous failure count: 12300
+[6647:26:0925/203405.608980:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=41700, SSRC=301796264, previous failure count: 12400
+[6647:26:0925/203429.611482:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=44417, SSRC=301796264, previous failure count: 12500
+[6647:26:0925/203451.588805:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=46913, SSRC=301796264, previous failure count: 12600
+[6647:26:0925/203514.441835:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=49507, SSRC=301796264, previous failure count: 12700
+[6647:26:0925/203537.348626:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=52091, SSRC=301796264, previous failure count: 12800
+[6647:26:0925/203603.315815:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=55023, SSRC=301796264, previous failure count: 12900
+[6647:26:0925/203625.689386:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=57588, SSRC=301796264, previous failure count: 13000
+[6647:26:0925/203647.768644:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=60107, SSRC=301796264, previous failure count: 13100
+[6647:26:0925/203712.361326:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=62861, SSRC=301796264, previous failure count: 13200
+[6647:26:0925/203733.820702:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=65309, SSRC=301796264, previous failure count: 13300
+[6647:26:0925/203754.473246:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=2103, SSRC=301796264, previous failure count: 13400
+[6647:26:0925/203819.087440:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=4900, SSRC=301796264, previous failure count: 13500
+[6647:26:0925/203839.281613:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=7201, SSRC=301796264, previous failure count: 13600
+[6647:26:0925/203901.349129:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=9757, SSRC=301796264, previous failure count: 13700
+[6647:26:0925/203925.224534:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=12469, SSRC=301796264, previous failure count: 13800
+[6647:26:0925/203948.271315:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=15081, SSRC=301796264, previous failure count: 13900
+[6647:26:0925/204011.529959:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=17699, SSRC=301796264, previous failure count: 14000
+[6647:26:0925/204035.249577:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=20372, SSRC=301796264, previous failure count: 14100
+[6647:26:0925/204057.070492:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=22813, SSRC=301796264, previous failure count: 14200
+[6647:26:0925/204118.580563:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=25251, SSRC=301796264, previous failure count: 14300
+[6647:26:0925/204144.596143:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=28196, SSRC=301796264, previous failure count: 14400
+[6647:26:0925/204208.606362:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=30932, SSRC=301796264, previous failure count: 14500
+[6647:26:0925/204231.663679:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=33581, SSRC=301796264, previous failure count: 14600
+[6647:26:0925/204255.094243:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=36193, SSRC=301796264, previous failure count: 14700
+[6647:26:0925/204317.941003:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=38778, SSRC=301796264, previous failure count: 14800
+[6647:26:0925/204339.867229:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=41274, SSRC=301796264, previous failure count: 14900
+[6647:26:0925/204402.851923:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=43886, SSRC=301796264, previous failure count: 15000
+[6647:26:0925/204425.197329:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=46435, SSRC=301796264, previous failure count: 15100
+[6647:26:0925/204447.296703:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=48898, SSRC=301796264, previous failure count: 15200
+[6647:26:0925/204511.755054:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=51648, SSRC=301796264, previous failure count: 15300
+[6647:26:0925/204535.470317:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=54337, SSRC=301796264, previous failure count: 15400
+[6647:26:0925/204557.825368:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=56863, SSRC=301796264, previous failure count: 15500
+[6647:26:0925/204621.383527:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=59573, SSRC=301796264, previous failure count: 15600
+[6647:26:0925/204645.103760:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=62249, SSRC=301796264, previous failure count: 15700
+[6647:26:0925/204707.780315:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=64809, SSRC=301796264, previous failure count: 15800
+[6647:26:0925/204729.354214:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=1693, SSRC=301796264, previous failure count: 15900
+[6647:26:0925/204753.318983:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=4418, SSRC=301796264, previous failure count: 16000
+[6647:26:0925/204815.482002:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=6931, SSRC=301796264, previous failure count: 16100
+[6647:26:0925/204839.078457:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=9597, SSRC=301796264, previous failure count: 16200
+[6647:26:0925/204901.098068:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=12129, SSRC=301796264, previous failure count: 16300
+[6647:26:0925/204922.774721:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=14559, SSRC=301796264, previous failure count: 16400
+[6647:26:0925/204947.178291:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=17339, SSRC=301796264, previous failure count: 16500
+[6647:26:0925/205010.599786:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=19951, SSRC=301796264, previous failure count: 16600
+[6647:26:0925/205034.619185:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=22688, SSRC=301796264, previous failure count: 16700
+[6647:26:0925/205059.769198:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=25519, SSRC=301796264, previous failure count: 16800
+[6647:26:0925/205123.497661:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=28211, SSRC=301796264, previous failure count: 16900
+[6647:26:0925/205147.249593:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=30892, SSRC=301796264, previous failure count: 17000
+[6647:26:0925/205212.179794:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=33732, SSRC=301796264, previous failure count: 17100
+[6647:26:0925/205236.159178:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=36460, SSRC=301796264, previous failure count: 17200
+[6647:26:0925/205300.163580:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=39160, SSRC=301796264, previous failure count: 17300
+[6647:26:0925/205321.210810:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=41565, SSRC=301796264, previous failure count: 17400
+[6647:26:0925/205344.985745:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=44251, SSRC=301796264, previous failure count: 17500
+[6647:26:0925/205408.702516:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=46935, SSRC=301796264, previous failure count: 17600
+[6647:26:0925/205434.435465:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=49843, SSRC=301796264, previous failure count: 17700
+[6647:26:0925/205456.640959:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=52343, SSRC=301796264, previous failure count: 17800
+[6647:26:0925/205518.793534:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=54893, SSRC=301796264, previous failure count: 17900
+[6647:26:0925/205541.979852:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=57485, SSRC=301796264, previous failure count: 18000
+[6647:26:0925/205608.000452:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=60437, SSRC=301796264, previous failure count: 18100
+[6647:26:0925/205632.004258:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=63145, SSRC=301796264, previous failure count: 18200
+[6647:26:0925/205656.010815:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=328, SSRC=301796264, previous failure count: 18300
+[6647:26:0925/205717.294798:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=2755, SSRC=301796264, previous failure count: 18400
+[6647:26:0925/205742.185111:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=5562, SSRC=301796264, previous failure count: 18500
+[6647:26:0925/205805.619054:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=8219, SSRC=301796264, previous failure count: 18600
+[6647:26:0925/205829.482398:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=10940, SSRC=301796264, previous failure count: 18700
+[6647:26:0925/205853.487191:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=13646, SSRC=301796264, previous failure count: 18800
+[6647:26:0925/205917.488068:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=16365, SSRC=301796264, previous failure count: 18900
+[6647:26:0925/205941.490810:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=19116, SSRC=301796264, previous failure count: 19000
+[6647:26:0925/210007.449671:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=22019, SSRC=301796264, previous failure count: 19100
+[6647:26:0925/210031.419487:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=24720, SSRC=301796264, previous failure count: 19200
+[6647:26:0925/210054.828801:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=27347, SSRC=301796264, previous failure count: 19300
+[6647:26:0925/210117.530338:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=29921, SSRC=301796264, previous failure count: 19400
+[6647:26:0925/210138.830435:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=32364, SSRC=301796264, previous failure count: 19500
+[6647:26:0925/210202.829558:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=35064, SSRC=301796264, previous failure count: 19600
+[6647:26:0925/210227.026768:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=37804, SSRC=301796264, previous failure count: 19700
+[6647:26:0925/210247.086618:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=40054, SSRC=301796264, previous failure count: 19800
+[6647:26:0925/210308.891046:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=42537, SSRC=301796264, previous failure count: 19900
+[6647:26:0925/210330.724373:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=45075, SSRC=301796264, previous failure count: 20000
+[6647:26:0925/210353.104572:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=47590, SSRC=301796264, previous failure count: 20100
+[6647:26:0925/210419.112104:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=50546, SSRC=301796264, previous failure count: 20200
+[6647:26:0925/210443.103997:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=53267, SSRC=301796264, previous failure count: 20300
+[6647:26:0925/210507.118905:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=56023, SSRC=301796264, previous failure count: 20400
+[6647:26:0925/210529.220480:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=58549, SSRC=301796264, previous failure count: 20500
+[6647:26:0925/210552.766407:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=61219, SSRC=301796264, previous failure count: 20600
+[6647:26:0925/210616.750456:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=63914, SSRC=301796264, previous failure count: 20700
+[6647:26:0925/210642.539818:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=1313, SSRC=301796264, previous failure count: 20800
+[6647:26:0925/210704.076310:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=3716, SSRC=301796264, previous failure count: 20900
+[6647:26:0925/210727.793962:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=6443, SSRC=301796264, previous failure count: 21000
+[6647:26:0925/210750.832908:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=9061, SSRC=301796264, previous failure count: 21100
+[6647:26:0925/210814.837169:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=11768, SSRC=301796264, previous failure count: 21200
+[6647:26:0925/210838.828672:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=14470, SSRC=301796264, previous failure count: 21300
+[6647:26:0925/210904.833516:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=17427, SSRC=301796264, previous failure count: 21400
+[6647:26:0925/210928.815448:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=20177, SSRC=301796264, previous failure count: 21500
+[6647:26:0925/210950.473725:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=22651, SSRC=301796264, previous failure count: 21600
+[6647:26:0925/211016.238738:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=25554, SSRC=301796264, previous failure count: 21700
+[6647:26:0925/211037.677498:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=27989, SSRC=301796264, previous failure count: 21800
+[6647:26:0925/211100.778138:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=30593, SSRC=301796264, previous failure count: 21900
+[6647:26:0925/211126.744764:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=33515, SSRC=301796264, previous failure count: 22000
+[6647:26:0925/211150.619911:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=36204, SSRC=301796264, previous failure count: 22100
+[6647:26:0925/211212.531297:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=38724, SSRC=301796264, previous failure count: 22200
+[6647:26:0925/211234.713424:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=41186, SSRC=301796264, previous failure count: 22300
+[6647:26:0925/211258.654566:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=43950, SSRC=301796264, previous failure count: 22400
+[6647:26:0925/211322.640611:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=46611, SSRC=301796264, previous failure count: 22500
+[6647:26:0925/211344.600656:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=49103, SSRC=301796264, previous failure count: 22600
+[6647:26:0925/211407.642280:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=51758, SSRC=301796264, previous failure count: 22700
+[6647:26:0925/211429.018880:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=54199, SSRC=301796264, previous failure count: 22800
+[6647:26:0925/211452.939594:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=56920, SSRC=301796264, previous failure count: 22900
+[6647:26:0925/211513.841250:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=59253, SSRC=301796264, previous failure count: 23000
+[6647:26:0925/211537.099315:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=61926, SSRC=301796264, previous failure count: 23100
+[6647:26:0925/211603.064171:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=64870, SSRC=301796264, previous failure count: 23200
+[6647:26:0925/211627.107303:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=2067, SSRC=301796264, previous failure count: 23300
+[6647:26:0925/211649.579550:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=4630, SSRC=301796264, previous failure count: 23400
+[6647:26:0925/211715.590998:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=7564, SSRC=301796264, previous failure count: 23500
+[6647:26:0925/211739.608545:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=10263, SSRC=301796264, previous failure count: 23600
+[6647:26:0925/211759.864620:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=12595, SSRC=301796264, previous failure count: 23700
+[6647:26:0925/211822.373341:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=15127, SSRC=301796264, previous failure count: 23800
+[6647:26:0925/211845.616158:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=17786, SSRC=301796264, previous failure count: 23900
+[6647:26:0925/211859.238157:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=19394, SSRC=301796264, previous failure count: 24000
+[6647:26:0925/211913.945408:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=21095, SSRC=301796264, previous failure count: 24100
+[6647:26:0925/211922.520469:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=22113, SSRC=301796264, previous failure count: 24200
+[6647:26:0925/211943.537343:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=24489, SSRC=301796264, previous failure count: 24300
+[6647:26:0925/211958.832774:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=26236, SSRC=301796264, previous failure count: 24400
+[6647:26:0925/212016.079634:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=28261, SSRC=301796264, previous failure count: 24500
+[6647:26:0925/212032.280461:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=30097, SSRC=301796264, previous failure count: 24600
+[6647:26:0925/212044.713267:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=31575, SSRC=301796264, previous failure count: 24700
+[6647:26:0925/212059.289254:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=33247, SSRC=301796264, previous failure count: 24800
+[6647:26:0925/212107.737545:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=34253, SSRC=301796264, previous failure count: 24900
+[6647:26:0925/212130.215974:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=36792, SSRC=301796264, previous failure count: 25000
+[6647:26:0925/212155.834696:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=39691, SSRC=301796264, previous failure count: 25100
+[6647:26:0925/212218.359063:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=42234, SSRC=301796264, previous failure count: 25200
+[6647:26:0925/212241.618843:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=44870, SSRC=301796264, previous failure count: 25300
+[6647:26:0925/212305.622382:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=47572, SSRC=301796264, previous failure count: 25400
+[6647:26:0925/212329.630355:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=50256, SSRC=301796264, previous failure count: 25500
+[6647:26:0925/212354.042084:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=52799, SSRC=301796264, previous failure count: 25600
+[6647:26:0925/212417.421395:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=55699, SSRC=301796264, previous failure count: 25700
+[6647:26:0925/212440.095688:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=58248, SSRC=301796264, previous failure count: 25800
+[6647:26:0925/212503.985886:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=60968, SSRC=301796264, previous failure count: 25900
+[6647:26:0925/212527.620928:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=63633, SSRC=301796264, previous failure count: 26000
+[6647:26:0925/212548.899158:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=558, SSRC=301796264, previous failure count: 26100
+[6647:26:0925/212610.829947:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=3019, SSRC=301796264, previous failure count: 26200
+[6647:26:0925/212636.839309:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=5937, SSRC=301796264, previous failure count: 26300
+[6647:26:0925/212659.343114:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=8483, SSRC=301796264, previous failure count: 26400
+[6647:26:0925/212720.619994:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=10886, SSRC=301796264, previous failure count: 26500
+[6647:26:0925/212745.422529:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=13669, SSRC=301796264, previous failure count: 26600
+[6647:26:0925/212806.437573:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=16105, SSRC=301796264, previous failure count: 26700
+[6647:26:0925/212822.939456:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=40, seqnum=17964, SSRC=301796264, previous failure count: 26800
+[6647:26:0925/212846.716631:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=20648, SSRC=301796264, previous failure count: 26900
+[6647:26:0925/212907.845738:ERROR:third_party/webrtc/pc/srtp_transport.cc:101] Failed to unprotect RTP packet: size=63, seqnum=23069, SSRC=301796264, previous failure count: 27000
+말씀하세요.
+분석 중...
+인식됨: '채치피티 열어줘'
+[실행] 챗GPT를 엽니다.
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+[22242:22242:0925/213045.373267:ERROR:content/browser/browser_main_loop.cc:286] GLib-GObject: g_object_set_is_valid_property: object class 'GtkSettings' has no property named 'gtk-modules'
+[22295:22295:0925/213045.476638:ERROR:ui/ozone/platform/wayland/gpu/wayland_surface_factory.cc:249] '--ozone-platform=wayland' is not compatible with Vulkan. Consider switching to '--ozone-platform=x11' or disabling Vulkan
+Created TensorFlow Lite XNNPACK delegate for CPU.
+[22242:22275:0925/213054.557294:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+말씀하세요.
+분석 중...
+인식됨: '꺼져'
+[?] 알 수 없는 명령: '꺼져'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+[22242:22275:0925/213119.210726:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+분석 중...
+인식됨: 'zambejo'
+[?] 알 수 없는 명령: 'zambejo'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+[22242:22275:0925/213202.362385:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2
+[22242:22275:0925/214148.896161:ERROR:google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+[22242:22275:0925/214328.050738:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[22242:22275:0925/214652.406938:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+말씀하세요.
+분석 중...
+인식됨: '아니야'
+[?] 알 수 없는 명령: '아니야'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '전원 꺼줘'
+[?] 알 수 없는 명령: '전원 꺼줘'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+[22295:22335:0925/214834.487238:ERROR:components/viz/service/display/display.cc:271] Frame latency is negative: -2.273 ms
+[22295:22335:0925/214855.381191:ERROR:components/viz/service/display/display.cc:271] Frame latency is negative: -1.702 ms
+[22295:22335:0925/214859.812148:ERROR:components/viz/service/display/display.cc:271] Frame latency is negative: -3.443 ms
+[22242:22242:0925/214900.315950:ERROR:ui/events/platform/wayland/wayland_event_watcher.cc:78] Fatal Wayland communication error: Connection reset by peer.
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0066  →  임계값: 0.0263
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0010  →  임계값: 0.0100
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0023  →  임계값: 0.0100
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '안은 꺼줘'
+[?] 알 수 없는 명령: '안은 꺼줘'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '잘 안 꺼져'
+[?] 알 수 없는 명령: '잘 안 꺼져'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0135  →  임계값: 0.0539
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0031  →  임계값: 0.0123
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0031  →  임계값: 0.0125
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0038  →  임계값: 0.0152
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0053  →  임계값: 0.0211
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0070  →  임계값: 0.0280
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0122  →  임계값: 0.0489
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+                                                                                       ==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0110  →  임계값: 0.0441
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0106  →  임계값: 0.0425
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0017  →  임계값: 0.0100
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+==================================================
+  한국어 음성 어시스턴트  (웨이크워드: 하이 라꾸)
+==================================================
+사용 가능한 명령어:
+  • 유튜브
+  • 챗지피티
+  • 절전
+  • 재시작
+  • 종료
+  • 볼륨 올려
+  • 볼륨 내려
+  • 화면 꺼
+
+종료: Ctrl+C
+==================================================
+
+Whisper 모델 로딩 중...
+주변 소음 측정 중... (2초간 조용히 해주세요)
+주변 소음: 0.0011  →  임계값: 0.0100
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
+말씀하세요.
+분석 중...
+인식됨: '변환 꺼져'
+[?] 알 수 없는 명령: '변환 꺼져'
+
+대기 중...  '하이 라꾸' 라고 말하면 활성화됩니다.
+
